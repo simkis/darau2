@@ -11,7 +11,7 @@ import {
     NavLinks,
     NavLogo,
     NavMenu
-} from './NavbarElements'
+} from './NavBarElements'
 
 interface NavbarProps {
     toggle: () => void;

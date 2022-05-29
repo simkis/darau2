@@ -16,7 +16,7 @@ function GallerySection() {
         infinite: true,
         speed: 500,
         centerMode: true,
-        autoplay:true,
+        autoplay:true, 
         autoplaySpeed:9000,
         fade:true,
     };
